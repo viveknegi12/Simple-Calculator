@@ -1,2 +1,3 @@
 # This is a Simple calculator 
 using html ,css and javascript
+The simple calculator is a web application developed using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with HTML and styled using CSS to create an intuitive and user-friendly layout. JavaScript is responsible for handling user input, performing calculations, and displaying the results on the calculator's screen in real-time. This straightforward calculator is perfect for quick calculations and serves as a handy tool for everyday math tasks
